@@ -9,3 +9,5 @@ A collection of tools and scripts I built for red team tasks.
 
 > ⚠️ This is strictly for educational and research purposes.
 (will not be updated)
+(will not be updated)
+(will not be updated)
